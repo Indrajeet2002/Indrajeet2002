@@ -1,4 +1,10 @@
 ### Hi there 👋
+---
+Currently pursuing Master's in Computer Science at CSUF
+
+Contact me at Indrajeet.patwardhan@gmail.com
+
+---
 
 Toolbox
 
@@ -6,14 +12,6 @@ Toolbox
 
 ## &#x1f4c8; My Github Stats
 
-<a href="https://github.com/Indrajeet2002/Indrajeet2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=Indrajeet2002,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Indrajeet2002/Indrajeet2002">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?
-username=Indrajeet2002&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Indrajeet's Github Stats" /> -->
-</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajeet2002&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Indrajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrajeet2002&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
