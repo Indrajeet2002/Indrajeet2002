@@ -18,6 +18,7 @@ username=Indrajeet2002&show_icons=true&line_height=27&count_private=true&title_c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajeet2002&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Indrajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrajeet2002&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Indrajeet2002&theme=dark)](https://git.io/streak-stats)
 <!--
 **Indrajeet2002/Indrajeet2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
