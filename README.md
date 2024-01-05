@@ -15,7 +15,8 @@ username=Indrajeet2002,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc
 username=Indrajeet2002&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Indrajeet's Github Stats" /> -->
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajeet2002)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajeet2002&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Indrajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrajeet2002&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Indrajeet2002/Indrajeet2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
