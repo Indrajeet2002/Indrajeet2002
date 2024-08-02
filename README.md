@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-Currently pursuing Master's in Computer Science at CSUF
+Currently pursuing Master of Data Science at UCI
 
 Contact me at Indrajeet.patwardhan@gmail.com
 
