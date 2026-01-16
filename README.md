@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-Currently pursuing Master of Data Science at UCI
+Graduate from UCI with Master of Data Science
 
 Contact me at Indrajeet.patwardhan@gmail.com
 
